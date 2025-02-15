@@ -29,6 +29,8 @@
 <div align="center"><br>
 
 &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyaneshwarchoudhary&repo=CodePair&bg_&theme=react&hide_border=true)](https://github.com/gyaneshwarchoudhary/CodePair.git)
+&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyaneshwarchoudhary&repo=Blog-App&bg_&theme=react&hide_border=true)](https://github.com/gyaneshwarchoudhary/Blog-App.git)
+&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyaneshwarchoudhary&repo=Algorithim-Visualizer-&bg_&theme=react&hide_border=true)](https://github.com/gyaneshwarchoudhary/Algorithim-Visualizer-.git)
 &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Daksh&repo=IMC-revenue&bg_&theme=react&hide_border=true)](https://github.com/K-Daksh/IMC-revenue)
 
 &nbsp;
